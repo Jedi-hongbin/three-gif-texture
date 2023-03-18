@@ -1,13 +1,9 @@
 ```bash
 yarn add three-gif-texture
 ```
-<<<<<<< HEAD
 
 or
 
-=======
- or
->>>>>>> f8053f3e47d986619a9bbcb131f3cc9076dcc941
 ```
  npm i three-gif-texture
 ```
@@ -24,10 +20,6 @@ or
 使用方法
 
 ```javascript
-<<<<<<< HEAD
-=======
-
->>>>>>> f8053f3e47d986619a9bbcb131f3cc9076dcc941
 import { GIFTexture } from "three-gif-texture";
 
 {
