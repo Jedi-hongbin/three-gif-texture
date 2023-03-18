@@ -1,8 +1,8 @@
 {
   "name": "three-gif-texture",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "Three.js plugin for loading animated gifs as textures",
-  "main": "index.js",
+  "main": "./lib/GIFTexture.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jedi-hongbin/three-gif-texture.git"
@@ -27,5 +27,6 @@
     "gif",
     "texture"
   ],
-  "author": "hongbin"
+  "author": "hongbin",
+  "type": "module"
 }
