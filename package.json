@@ -1,6 +1,6 @@
 {
   "name": "three-gif-texture",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Three.js plugin for loading animated gifs as textures",
   "main": "./lib/GIFTexture.js",
   "repository": {
