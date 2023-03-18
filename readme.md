@@ -1,8 +1,10 @@
-> ```
-> yarn add three-gif-texture
-> or
-> npm i three-gif-texture
-> ```
+```bash
+yarn add three-gif-texture
+```
+ or
+```
+ npm i three-gif-texture
+```
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/cc8a452e4ddb4692a97f90f66331bbb4.gif)
 
@@ -15,7 +17,8 @@
 
 使用方法
 
-```
+```javascript
+
 import { GIFTexture } from "three-gif-texture";
 
  {
