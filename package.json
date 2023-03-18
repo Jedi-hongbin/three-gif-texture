@@ -1,0 +1,31 @@
+{
+  "name": "three-gif-texture",
+  "version": "1.0.0",
+  "description": "Three.js plugin for loading animated gifs as textures",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jedi-hongbin/three-gif-texture.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "three": ">= 0.92 < 1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Jedi-hongbin/three-gif-texture/issues"
+  },
+  "homepage": "https://github.com/Jedi-hongbin/three-gif-texture#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "gif",
+    "texture"
+  ],
+  "author": "hongbin"
+}
